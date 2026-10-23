@@ -1,0 +1,19 @@
+{
+  "name": "emergent-economies",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Resource scarcity and emergent economies - multi-agent PPO in Three.js (browser only)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0",
+    "vite": "^5.4.21"
+  }
+}
